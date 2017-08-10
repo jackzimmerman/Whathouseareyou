@@ -171,3 +171,4 @@ puts "You must answer in the same format as above or you will be penalized."
     else
         puts "You live in a cardboard box"
     end
+    
